@@ -8,8 +8,6 @@ public class DevOpsTest001 {
 
 		System.out.println("Stash changes test");// Git level changes
 
-		System.out.println("Stash changes testing");// laptop side changes
-
 	}
 
 }
