@@ -6,7 +6,7 @@ public class DevOpsTest001 {
 
 		System.out.println("Print it");
 
-		System.out.println("Stash changes test");// Git level changes
+		
 
 	}
 
